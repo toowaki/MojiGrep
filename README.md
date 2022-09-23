@@ -13,5 +13,7 @@ This tool searches for multiple search terms specified for the Word, Excel, Powe
 - Feature 5: Because it is an Excel macro enabled book file, it can be used immediately on a PC with Excel installed. Also, the execution result can be organized by using the filter function which is a standard Excel function. "				
 - Feature 6: “Search by value” of Excel standard function cannot search for hidden cells, but this macro file can search.				
 
+![gif](http://toowaki.web.fc2.com/picture/MojiGrep_img_EN.png)
+
 ## Detail
  Please read "ReadMe.pdf".
